@@ -1,6 +1,6 @@
 # Ready to compile and run!!! #
 
-## Building
+## Compiling
 
 `g++ main.cpp -o main.o`
 
